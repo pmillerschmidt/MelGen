@@ -1,0 +1,18 @@
+
+RULES:
+S: (16) [D] $A $A $A $A $A $A $A $A $Vr1 $Ch $Vr2 $Ch $Bk $Ch $Ch 
+Bk: (14) R | R | $A $A $A $A $A $A $A $A $A $A 
+Vr2: (12) $A $A $A $A $A $A $A $A $A $A $A $A 
+Ch: (8) $A $A $A $A $A $A $A $A 
+Vr1: (16) $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A 
+A: (2) I | 
+
+Raw chord progression:
+[D] I | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | R | | I | | | | | | | | | | | | | | | | | | | | | | | | | | 
+
+Chords: I (0.000) 
+
+Chords w/ timepoints and roots:
+ 0.00 80.00     I   0   1   2   2
+---
+

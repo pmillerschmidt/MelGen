@@ -1,0 +1,15 @@
+
+RULES:
+S: (42) [G#] $A $A $A $A $A $A $Vr $Vr $A $A $A $A $Vr $A $A $A $A $Vr $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $Vr $Vr $A 
+Vr: (4) $A $A $A $A 
+A: (2) i7 | 
+
+Raw chord progression:
+[Ab] i7 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+
+Chords: i7 (0.000) 
+
+Chords w/ timepoints and roots:
+ 0.00 59.00    i7   0   1   8   8
+---
+

@@ -1,0 +1,22 @@
+
+RULES:
+S: (12) [Bb] $In $Vr $Ch $So $Vr $Ch $So2 $Vr $Ch $Ch $Ou 
+Ou: (2) $A $A 
+Ch2: (6) $A $A $A $A $A $A 
+So2: (3) $A $A $A 
+So: (4) $A $A $A $A 
+Ch: (4) $A $A $A $A 
+Vr: (4) $A $A $A $A 
+In: (15) $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A 
+A: (5) i | | | | 
+
+Warning: 'Ch2' is defined but never used
+Raw chord progression:
+[Bb] i | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+
+Chords: i (0.000) 
+
+Chords w/ timepoints and roots:
+ 0.00 208.00     i   0   1  10  10
+---
+
