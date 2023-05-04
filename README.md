@@ -1,7 +1,7 @@
-MelGen: Applying LSTMs to Melody Generation with Attention to Harmonic Structure
+# MelGen: Applying LSTMs to Melody Generation with Attention to Harmonic Structure
 
 
-ABSTRACT
+### **Abstract**
 
 Machine Learning models have already changed the way we think about and interact with text, images, and videos. The implementation of Transformers in Generative Pre-Trained Models, such as ChatGPT and Dall-E, has shown how powerful these technologies can be. However, music generation presents a unique challenge. When sampled at 44100 hz, a 25 second clip of audio has more than a million data points. In addition, music has complex temporal structures and hierarchical patterns. Multiple instruments are dependent on each other in nuanced ways and identifying commonalities and patterns is challenging. When building a generative musical model, a decision must be made between generating simpler representations, such as MIDI, or pure audio. Previous works have used basic model architectures, such as RNNs and LSTMs, for MIDI or XML generation and more complicated architectures, such as GANs and VQ-VAEs, for pure audio generation. This paper investigates the existing research and outlines the development of MelGen, an artificially intelligent MIDI generator, primed on top line melody sequences and dependent on underlying harmonic structures. 
 
