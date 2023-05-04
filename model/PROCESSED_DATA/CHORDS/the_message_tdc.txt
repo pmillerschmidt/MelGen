@@ -1,0 +1,14 @@
+
+RULES:
+S: (182) [G#] R | | $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A $A 
+A: (2) i7 | 
+
+Raw chord progression:
+[Ab] R | | i7 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+
+Chords: i7 (2.000) 
+
+Chords w/ timepoints and roots:
+ 2.00 180.00    i7   0   1   8   8
+---
+

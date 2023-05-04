@@ -1,4 +1,0 @@
-Chords w/ timepoints and roots:
- 2.00 180.00     i   0   1   8   8
----
-

@@ -1,5 +1,0 @@
-Chords w/ timepoints and roots:
- 0.50  2.00     V   7   5   8   3
- 2.00 138.00     I   0   1   8   8
----
-
