@@ -5,7 +5,7 @@
 
 
 
-# MelGen: Applying LSTMs to Melody Generation with Attention to Harmonic Structure
+# MelGen: Applying LSTMs to Melody Generation
 
 https://github.com/user-attachments/assets/ef22f6e9-db83-4c10-b93a-eb18ea056743
 
